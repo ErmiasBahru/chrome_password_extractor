@@ -8,6 +8,6 @@
 
 *doc: http://timgolden.me.uk/pywin32-docs/win32crypt.html*
 
-**Use for learning purpose olny**
+**Use for learning purpose only**
 
 **Created by Ermias Bahru**
